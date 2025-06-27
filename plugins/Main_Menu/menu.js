@@ -42,7 +42,8 @@ module.exports = {
       }
     };
 
-    await conn.sendMessage(chatId, { text: menuText, ...adReply }, { quoted: message });
+	await conn.sendMessage(chatId, { text: menuText, ...adReply }, { quoted: message });
+
   }
 };
 
