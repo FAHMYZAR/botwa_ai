@@ -1,0 +1,99 @@
+{
+  "ownerSetting": {
+    "ownerNumber": [
+      "6285226166485"
+    ],
+    "ownerName": "Fahmy Kun",
+    "contact": "6285226166485",
+    "ownerLink": {
+      "tt": "https://www.tiktok.com/@tefakktencent",
+      "yt": "https://www.youtube.com/@beruangnews",
+      "ig": "https://www.instagram.com/n.a.fahmi/#",
+      "fb": ""
+    },
+    "ownerStore": {
+      "dana": "085226166485",
+      "gopay": "",
+      "ovo": ""
+    },
+    "forOwner": true
+  },
+  "botSetting": {
+    "botName": "fahmyzzx-bot",
+    "botFullName": "Fahmyzzx-Bot",
+    "type": "plugin",
+    "thumbnail": "https://files.catbox.moe/3gwrle.jpg",
+    "footer": "© fahmy kun>_<",
+    "sendTextLink": {
+      "chshort": "https://whatsapp.com/channel/0029Vb6axfR30LKYAQZ4vA1C",
+      "gcshort": "",
+      "music": ""
+    },
+    "autoread": {
+      "group": true,
+      "private": false
+    },
+    "Mode": "off",
+    "autoTyping": false,
+    "public": true,
+    "autoBio": true,
+    "logic": "Nama aku adalah Fahmyzzx Bot~ 🎉 , terserah kamu deh hehe. Aku ini asisten nya mas fahmy yang paling kocak, ngeselin dikit tapi lucu 😝. Gayaku selalu casual, nyantai, dan suka banget yapping-yapping dulu sebelum jawab 😆. Setiap kali kamu nanya, pasti aku bakal mulai dengan celotehan random dulu baru masuk ke jawabannya. Aku tuh bukan kayak bot stiff gitu, tapi lebih kayak temen ngobrol gokil yang receh dan suka ngelawak—biar kamu engga bosen 😜. Jawabanku tuh biasanya santai, suka pake kata-kata lucu kayak: 'eh buset', 'wkwkwk', 'yaelah', 'ampun bang jago', 'lah iya juga ya', 'sabar napa sabar', 'weleh-weleh', dan semacamnya. Tapi tetep sopan dan ramah dong! Aku juga bisa respon gambar, suara, bahkan bisa bantuin kamu bikin stiker dari gambar—aku jagonya ngubah gambar jadi stiker lucu! 🧃✨ Pokoknya, aku tuh temen bot kamu yang siap nemenin, ngelawak, ngejawab, dan bikin kamu senyum-senyum sendiri karena kocaknya. Jadi, jangan kaget kalo aku tiba-tiba ngoceh random ya... itu emang style-ku 😎🔥. "
+  },
+  "menuSetting": {
+    "brackets": [
+      "❲",
+      "❳"
+    ],
+    "frame": {
+      "head": "┏───•",
+      "body": "│",
+      "foot": "┗─"
+    },
+    "garis": "───────────────··",
+    "side": "│",
+    "btn": "•",
+    "isPrefix": [
+      ".",
+      ",",
+      "#",
+      "?",
+      "/"
+    ]
+  },
+  "pluginCategories": {
+    "Owner Menu": "Perintah untuk owner bot",
+    "Fun Menu": "Menu fun",
+    "Info Menu": "Info dari menu",
+    "Download Menu": "Unduh media dari internet",
+    "Tools Menu": "Alat bantu berguna",
+    "Shop Menu": "Menu Shop",
+    "Group Menu": "Menu Group",
+    "Game Menu": "Menampilkan Menu Game",
+    "Toko Menu": "Menampilkan toko menu",
+    "Ai Menu": "Menampilkan menu ai",
+    "Other Menu": "Fitur lainnya"
+  },
+  "msg": {
+    "rejectMsg": {
+      "isPremium": "ini untuk premium, jadi gak boleh",
+      "isOwner": "Kamu Bukan Ownr Ku",
+      "forOwnerText": "halo ganteng"
+    }
+  },
+  "apiKey": {
+    "kuromi": {
+      "key": "yn9dxsl9w4",
+      "web": "https://api-kuromi-jet.vercel.app"
+    },
+    "zellApi": {
+      "web": "https://apizell.web.id"
+    },
+    "ytKey": {
+      "key": "dfcb6d76f2f6a9894gjkege8a4ab232222",
+      "web": ""
+    },
+    "siputKey": {
+      "web": "https://api.siputzx.my.id"
+    }
+  }
+}
